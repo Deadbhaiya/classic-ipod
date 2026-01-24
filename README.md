@@ -1,7 +1,10 @@
 # 🎧 Classic iPod 
 
 <p align="center">
-  <img src="public/logo.png" width="220" alt="Classic iPod Web UI">
+  <img width="437" height="682" alt="image" src="https://github.com/user-attachments/assets/24d631a3-2efc-4e97-b768-68acbd47f0ee" />
+  <img width="434" height="662" alt="image" src="https://github.com/user-attachments/assets/8268c2fe-e5b0-487f-a1ca-db4ac0ffadc8" />
+
+
 </p>
 
 ## A nostalgic iPod Classic experience — rebuilt for the web
