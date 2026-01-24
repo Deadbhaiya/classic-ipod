@@ -43,6 +43,14 @@ Modern tools, classic discipline.
 
 ---
 
+## 👥 Top Contributors
+
+<a href="https://github.com/Deadbhaiya/classic-ipod/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Deadbhaiya/classic-ipod" />
+</a>
+
+---
+
 
 Clean and predictable — like good engineering should be.
 
