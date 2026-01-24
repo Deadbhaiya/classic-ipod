@@ -48,6 +48,11 @@ Modern tools, classic discipline.
 <a href="https://github.com/Deadbhaiya/classic-ipod/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Deadbhaiya/classic-ipod" />
 </a>
+<p align="center">
+  <a href="https://github.com/Deadbhaiya/classic-ipod/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Deadbhaiya/classic-ipod" />
+  </a>
+</p>
 
 ---
 
